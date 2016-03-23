@@ -1,0 +1,30 @@
+{
+  "name": "rogain-component-range",
+  "version": "0.1.0",
+  "description": "Rogain <Range /> helper component",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krambuhl/rogain-component-range.git"
+  },
+  "keywords": [
+    "rogain",
+    "rogain-component",
+    "core"
+  ],
+  "author": "Evan Krambuhl <thekrambuhl@gmail.com> (http://stumptownbear.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krambuhl/rogain-component-range/issues"
+  },
+  "homepage": "https://github.com/krambuhl/rogain-component-range",
+  "devDependencies": {
+    "tape": "^4.4.0"
+  },
+  "dependencies": {
+    "rogain-utils": "~0.2"
+  }
+}
