@@ -1,6 +1,6 @@
 {
   "name": "rogain-component-range",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Rogain <Range /> helper component",
   "main": "index.js",
   "scripts": {
