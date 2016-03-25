@@ -1,4 +1,4 @@
-const splitTree = require('rogain-utils').splitTree;
+const splitTrees = require('rogain-utils').splitTrees;
 
 module.exports = function Range(tree, props) {
   var split = splitTrees(tree, { type: 'component', name: 'Else' });
